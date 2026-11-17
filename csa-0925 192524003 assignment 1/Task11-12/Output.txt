@@ -1,0 +1,7 @@
+PASS: 28 acceptance checks
+PK-1 car fee = Rs 90.0
+electric car parking + charging = Rs 180.0
+e-bike fee = Rs 25.0
+delivery van fee = Rs 60.0
+visitor with one-day pass fee = Rs 0.0
+monthly-pass fee = Rs 0.0
